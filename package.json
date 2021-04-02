@@ -2,7 +2,7 @@
   "name": "mechanical-keyboard-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://BrettGB.github.io/mechanical-keyboard-app",
+  "homepage": "https://brettgb.github.io/Mechanical-Keyboard-App/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.10",
