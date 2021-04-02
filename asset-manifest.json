@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/mechanical-keyboard-app/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/mechanical-keyboard-app/static/js/main.11378afd.chunk.js",
-    "main.js.map": "/mechanical-keyboard-app/static/js/main.11378afd.chunk.js.map",
-    "runtime-main.js": "/mechanical-keyboard-app/static/js/runtime-main.1c3745cf.js",
-    "runtime-main.js.map": "/mechanical-keyboard-app/static/js/runtime-main.1c3745cf.js.map",
-    "static/js/2.c9b7872d.chunk.js": "/mechanical-keyboard-app/static/js/2.c9b7872d.chunk.js",
-    "static/js/2.c9b7872d.chunk.js.map": "/mechanical-keyboard-app/static/js/2.c9b7872d.chunk.js.map",
-    "static/js/3.58c32ba4.chunk.js": "/mechanical-keyboard-app/static/js/3.58c32ba4.chunk.js",
-    "static/js/3.58c32ba4.chunk.js.map": "/mechanical-keyboard-app/static/js/3.58c32ba4.chunk.js.map",
+    "main.js": "/mechanical-keyboard-app/static/js/main.c7667a9f.chunk.js",
+    "main.js.map": "/mechanical-keyboard-app/static/js/main.c7667a9f.chunk.js.map",
+    "runtime-main.js": "/mechanical-keyboard-app/static/js/runtime-main.6d0119f5.js",
+    "runtime-main.js.map": "/mechanical-keyboard-app/static/js/runtime-main.6d0119f5.js.map",
+    "static/js/2.81716a8a.chunk.js": "/mechanical-keyboard-app/static/js/2.81716a8a.chunk.js",
+    "static/js/2.81716a8a.chunk.js.map": "/mechanical-keyboard-app/static/js/2.81716a8a.chunk.js.map",
     "index.html": "/mechanical-keyboard-app/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/mechanical-keyboard-app/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.c9b7872d.chunk.js.LICENSE.txt": "/mechanical-keyboard-app/static/js/2.c9b7872d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mechanical-keyboard-app/static/media/logo.6ce24c58.svg"
+    "static/js/2.81716a8a.chunk.js.LICENSE.txt": "/mechanical-keyboard-app/static/js/2.81716a8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c3745cf.js",
-    "static/js/2.c9b7872d.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.11378afd.chunk.js"
+    "static/js/runtime-main.6d0119f5.js",
+    "static/js/2.81716a8a.chunk.js",
+    "static/js/main.c7667a9f.chunk.js"
   ]
 }
