@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Mechanical-Keyboard-App/static/js/main.c7667a9f.chunk.js",
-    "main.js.map": "/Mechanical-Keyboard-App/static/js/main.c7667a9f.chunk.js.map",
+    "main.js": "/Mechanical-Keyboard-App/static/js/main.65266c8e.chunk.js",
+    "main.js.map": "/Mechanical-Keyboard-App/static/js/main.65266c8e.chunk.js.map",
     "runtime-main.js": "/Mechanical-Keyboard-App/static/js/runtime-main.de3ae5a6.js",
     "runtime-main.js.map": "/Mechanical-Keyboard-App/static/js/runtime-main.de3ae5a6.js.map",
-    "static/js/2.81716a8a.chunk.js": "/Mechanical-Keyboard-App/static/js/2.81716a8a.chunk.js",
-    "static/js/2.81716a8a.chunk.js.map": "/Mechanical-Keyboard-App/static/js/2.81716a8a.chunk.js.map",
+    "static/js/2.e21bb162.chunk.js": "/Mechanical-Keyboard-App/static/js/2.e21bb162.chunk.js",
+    "static/js/2.e21bb162.chunk.js.map": "/Mechanical-Keyboard-App/static/js/2.e21bb162.chunk.js.map",
     "index.html": "/Mechanical-Keyboard-App/index.html",
-    "static/js/2.81716a8a.chunk.js.LICENSE.txt": "/Mechanical-Keyboard-App/static/js/2.81716a8a.chunk.js.LICENSE.txt"
+    "static/js/2.e21bb162.chunk.js.LICENSE.txt": "/Mechanical-Keyboard-App/static/js/2.e21bb162.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.de3ae5a6.js",
-    "static/js/2.81716a8a.chunk.js",
-    "static/js/main.c7667a9f.chunk.js"
+    "static/js/2.e21bb162.chunk.js",
+    "static/js/main.65266c8e.chunk.js"
   ]
 }
