@@ -17,7 +17,7 @@ export default function Page1() {
     return (
         <div className={classes.root}>
             <Typography variant="h1" component="h2" gutterBottom>
-                My Website
+                Welcome to my website
                 </Typography>
         </div>
     );
